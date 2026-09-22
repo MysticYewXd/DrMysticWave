@@ -81,3 +81,4 @@ sudo apt install ffmpeg python3-tk
 pip install --break-system-packages numpy matplotlib
 python3 funkcheck.py --gui
 ```
+please show support and comment for any problems
